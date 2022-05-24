@@ -2,6 +2,8 @@
 
 CalculadoraApp is my first Angular project. It's just a simple calculator but implement both event binding and property binding and this allow the communication between components.
 
+Deployed on Heroku at this [link](https://calculadoradb.herokuapp.com/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
